@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'Energy Dashboard',
+      title: 'Energy Web App',
       debugShowCheckedModeBanner: false,
       initialRoute: Routes.login,
       getPages: AppPages.pages,

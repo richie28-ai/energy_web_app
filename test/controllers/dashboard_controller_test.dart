@@ -1,7 +1,8 @@
+import 'package:energy_web_app/controllers/dashboard_controller.dart';
+import 'package:energy_web_app/models/data_point.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:get/get.dart';
-import 'package:web_app/controllers/dashboard_controller.dart';
-import 'package:web_app/models/data_point.dart';
+
 
 void main() {
   late DashboardController controller;
