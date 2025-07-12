@@ -80,7 +80,7 @@ lib/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/energy_dashboard_flutter.git
+git clone https://github.com/richie28-ai/energy_web_app.git
 cd energy_dashboard_flutter
 ```
 
